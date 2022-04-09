@@ -1,9 +1,11 @@
-import logo from './logo.svg';
+import LandingPage from './LandingPage/LandingPage';
+
+
 import './App.css';
 
 function App() {
   return (
-    <h1>hello world</h1>
+    <LandingPage/>
   );
 }
 
